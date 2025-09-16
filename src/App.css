@@ -7,6 +7,7 @@
 
 .card {
   padding: 2em;
+  margin: 4rem auto;
   border: 1px solid cornsilk;
   border-radius: 20px;
   box-shadow: 0 4px 10px cornsilk;
